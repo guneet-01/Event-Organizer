@@ -1,2 +1,2 @@
 # Event-Organizer
-It enables users to save any event and serves as a reminder.
+It helps users to save any event and reminds them about it.
